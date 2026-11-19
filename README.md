@@ -13,7 +13,7 @@ A from-scratch neural network with automatic differentiation, built by studying 
 
 ## Live demo
 
-https://yangxiang-dev.github.io/Mygrad/index.html
+https://mygrad.pages.dev
 
 ## Quick start
 
